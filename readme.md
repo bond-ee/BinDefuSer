@@ -1,6 +1,6 @@
 # binDfuSer
 
-Create a .dfu file from a .bin file.
+Create a .dfu file from a .bin file for STM32 MCU's.
 
 ## How to compile:
 
